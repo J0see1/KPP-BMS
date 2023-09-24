@@ -44,7 +44,7 @@ import { useRouter } from "vue-router";
   </section>
 </template>
 
-<style>
+<style scoped>
 /* hero */
 * {
   text-decoration: none;
