@@ -7,7 +7,7 @@ export default {
 <template>
   <section class="navbar">
     <div class="logo">
-      <a href="#"> Portal </a>
+      <a href="/"> Portal </a>
     </div>
     <div class="menu">
       <ul>
@@ -19,7 +19,7 @@ export default {
   </section>
 </template>
 
-<style>
+<style scoped>
 * {
   text-decoration: none;
   margin: 0;

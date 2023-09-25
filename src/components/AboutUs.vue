@@ -28,7 +28,7 @@ export default {
   </section>
 </template>
 
-<style>
+<style scoped>
 .about-us {
   background: linear-gradient(180deg, #84dcc6 0%, #136f63 97.12%);
 }
