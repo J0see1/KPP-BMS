@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <Navbar />
   <Hero />
   <AboutUs />
@@ -17,4 +17,4 @@ export default {
     AboutUs,
   },
 };
-</script>
+</script> -->

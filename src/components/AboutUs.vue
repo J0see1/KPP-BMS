@@ -1,28 +1,24 @@
-<script>
-export default {
-  AboutUs,
-};
-</script>
+<script></script>
 
 <template>
-  <section class="about-us">
+  <section class="about-us" id="about-us">
     <p>About Us</p>
     <div class="cards-collide">
       <div class="card">
-        <img src="../assets/Rectangle 6.svg" alt="" width="200px" />
+        <img src="../assets/cel.svg" alt="" width="200px" />
         <p>Marcelinus Alvinanda Chrisantya</p>
       </div>
       <div class="card">
-        <img src="../assets/Rectangle 6.svg" alt="" width="200px" />
-        <p>Marcelinus Alvinanda Chrisantya</p>
+        <img src="../assets/afif.svg" alt="" width="200px" />
+        <p>Muhammad Afif</p>
       </div>
       <div class="card">
-        <img src="../assets/Rectangle 6.svg" alt="" width="200px" />
-        <p>Marcelinus Alvinanda Chrisantya</p>
+        <img src="../assets/dhimz.svg" alt="" width="200px" />
+        <p>Rafif Dhimaz Ardhana</p>
       </div>
       <div class="card">
-        <img src="../assets/Rectangle 6.svg" alt="" width="200px" />
-        <p>Marcelinus Alvinanda Chrisantya</p>
+        <img src="../assets/vian.svg" alt="" width="200px" />
+        <p>Muhammad Rifqi Oktaviansyah</p>
       </div>
     </div>
   </section>

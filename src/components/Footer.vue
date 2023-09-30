@@ -1,7 +1,7 @@
 <template>
   <section class="navbar">
     <div class="logo">
-      <p>Contact Us:</p>
+      <p>Contact us:</p>
     </div>
     <div class="menu">
       <ul>
@@ -11,18 +11,18 @@
           >
         </li>
         <li>
-          <a href="https://www.instagram.com/_fif.17/" target="_blank"
-            >@fif_17</a
+          <a href="https://www.instagram.com/mreezx/" target="_blank"
+            >@mreezx</a
           >
         </li>
         <li>
-          <a href="https://www.instagram.com/_fif.17/" target="_blank"
-            >@fif_17</a
+          <a href="https://www.instagram.com/viansyah._/" target="_blank"
+            >@viansyah._</a
           >
         </li>
         <li>
-          <a href="https://www.instagram.com/_fif.17/" target="_blank">
-            @fif_17</a
+          <a href="https://www.instagram.com/r.dhim/" target="_blank">
+            @r.dhim</a
           >
         </li>
       </ul>

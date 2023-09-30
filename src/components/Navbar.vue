@@ -1,8 +1,4 @@
-<script>
-export default {
-  Navbar,
-};
-</script>
+<script></script>
 
 <template>
   <section class="navbar">
@@ -12,8 +8,8 @@ export default {
     <div class="menu">
       <ul>
         <li><a href="#">home</a></li>
-        <li><a href="#">about</a></li>
-        <li><a href="#">content</a></li>
+        <li><a href="#about-us">about</a></li>
+        <li><a href="#content">content</a></li>
       </ul>
     </div>
   </section>

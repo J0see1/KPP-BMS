@@ -1,5 +1,5 @@
 <template>
-  <section class="content-head" id="konten">
+  <section class="content-head" id="content">
     <h1>CONTENT</h1>
   </section>
   <section class="content-fotgraf">
@@ -115,7 +115,7 @@
   gap: 200px;
 }
 .content-fotgraf .txt-box {
-  padding-top: 50px;
+  padding-top: 20px;
   width: 350px;
   text-align: right;
 }
@@ -134,7 +134,7 @@
 
 .content-jurnalistik .txt-box {
   padding-left: 60px;
-  padding-top: 100px;
+  padding-top: 10px;
   width: 400px;
   text-align: left;
 }
